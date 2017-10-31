@@ -1,15 +1,14 @@
-# GPU-and-Threaded-CPU-prime-finder
-I want to learn how to program program CUDA Cores. This is me starting from a base C program.
+# GPU and threaded CPU prime finder
+I want to learn how to program program CUDA Cores. This is me learning using prime numbers.
+
+__Files__
 
 main_single.c is single threadded
 main_multi.c is a threadded CPU program with OpenMP
 main_cuda.cu is for cuda cores
 
 
-
-
-
-MIT License
+__MIT License__
 
 Copyright (c) 2017 Wesley Ring
 
