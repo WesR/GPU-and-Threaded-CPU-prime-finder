@@ -4,7 +4,9 @@ I want to learn how to program program CUDA Cores. This is me learning using pri
 __Files__
 
 main_single.c is single threadded
+
 main_multi.c is a threadded CPU program with OpenMP
+
 main_cuda.cu is for cuda cores
 
 
